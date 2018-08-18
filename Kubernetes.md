@@ -6,6 +6,7 @@
           1.2. Master.
           1.3. Nodes.
           1.4. Pods.
+          1.5. Cluster.
 
 ### Day-2. Creating cluster using kubeadm (AWS & Docker).
         
