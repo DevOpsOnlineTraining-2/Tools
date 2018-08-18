@@ -1,16 +1,16 @@
 # Ansible Course
 
 ### Day-1. 
-                1.1. Ansible introduction
+                1.1. Ansible introduction.
                 1.2. Ansible installation.
                 1.3. Ansible archetucture.
-                1.4. Connection between Nodes
+                1.4. Connection between Nodes.
                 
 ### Day-2. 
 
                 2.1. Writing Inventory file.
                 2.2. Ansible Ad-hoc commands.
-                2.3. Writing playbooks
+                2.3. Writing playbooks.
                 
 ### Day-3. 
 
