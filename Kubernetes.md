@@ -1,4 +1,4 @@
-# Kubernetes Course
+# Kubernetes Course: Kubernetes + Docker + AWS 
 
 ### Day-1. Kubernetes Introduction & Archetecture.
 
@@ -9,4 +9,3 @@
 ### Day-4. Deploying apps on Kubernetes cluster.
 
 ### Day-5. Other concepts & Interview Questions.
-
