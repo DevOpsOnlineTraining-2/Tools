@@ -20,7 +20,7 @@
                 
 ### Day-4. 
 
-                4.1. Configure CD pipleine with Jenkins + Nexus + Ansible.
+                4.1. Configure CI/CD pipleine with Jenkins + Nexus + Ansible.
                 4.2. Deployment using Ansible.
                 
 ### Day-5. Other Concepts & Interview Questions.
